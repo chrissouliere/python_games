@@ -1,0 +1,5 @@
+# .gitignore
+Hangman/.idea/
+Hangman/my_venv/
+Pong/.idea/
+Pong/my_venv/
